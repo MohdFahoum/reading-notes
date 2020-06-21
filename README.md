@@ -1,20 +1,27 @@
 # reading-notes
-*lets make some italic notes, while using this method you will end up having italic lines in your website*
-*lets try to do it using any website link(www.google.com)*
-# and we also can use this tag as a header tag 
+*A text editor is a piece of software that you download and install on
+your computer, or you access online through your web browser, that
+allows you to write and manage text, especially the text that you write
+to build a web site. The text editor has to be one of the most
+important tools you can use as an aspiring web developer*
 
-we also can add the like as a hyperlink [google](www.google.com)
+*lets try to do it using any website link(www.google.com)*
+
+# choosing a text editor
+
+we also can add the like as a hyperlink [google](www.google.com) to search for the best code editor for us 
 
 ![welcome Logo](/we.png)
 
-lets do some lists here :
+lets have some editors name :
 
-* first item
-* second item
+* Atom
+* Eclips
 
-lets also make ordered list:
+lets also make ordered list as the same:
 
-1.first item
-2.second item 
+1.Atom
+
+2.Eclips 
 
 
