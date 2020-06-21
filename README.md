@@ -5,7 +5,7 @@
 
 we also can add the like as a hyperlink [google](www.google.com)
 
-![Image of welcoming] (https://github.com/MohdFahoum/reading-notes/blob/master/we.png)
+![welcome Logo](/we.png)
 
 lets do some lists here :
 
