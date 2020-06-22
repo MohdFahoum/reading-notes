@@ -12,8 +12,7 @@ important tools you can use as an aspiring web developer*
 ![welcome Logo](/we.png)
 
 
-| lists                 | test editors          | read03               |
-|-----------------------|-----------------------|----------------------|
-| [read01](./read01.md) | [read02](./read02.md) | [read3](./read03.md) |
+| lists                 | test editors          | read03               | read04             |
+|-----------------------|-----------------------|----------------------|--------------------|
+| [read01](./read01.md) | [read02](./read02.md) | [read3](./read03.md) | [read04](./read04) |
 
-new page 
