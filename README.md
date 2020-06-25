@@ -14,7 +14,8 @@ important tools you can use as an aspiring web developer*
 
 | lists                 | test editors          | read03               | read04             |
 |-----------------------|-----------------------|----------------------|--------------------|
-| [read01](./read01.md) | [read02](./read02.md) | [read3](./read03.md) | [read04](./read04) | [read08](./read08.md)
+| [read01](./read01.md) | [read02](./read02.md) | [read3](./read03.md) | [read04](./read04) | 
 
 [read05](./csspage.html)
 
+[read08](./read08.md)
