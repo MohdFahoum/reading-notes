@@ -18,4 +18,5 @@ important tools you can use as an aspiring web developer*
 
 [read05](./csspage.html)
 
+[read07](./read07.md)
 [read08](./read08.md)
